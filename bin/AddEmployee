@@ -1,0 +1,111 @@
+Welcome to the Factory 
+1-Create a Workshop
+2-Add Workers to participate workshop
+3-Removing Workers from workshop
+4-Display all Workshops
+5-Export to File
+6-Exit
+Enter your choice of task: 
+2
+
+		 Available Workshop
+1: 459312452-testprod1
+1: 928888947-test2prod1
+
+Enter Workshop ID: 
+459312452
+
+		Available Employees
+98765: Ely Carev
+45678: James Boston
+45676: Leo Boston
+45675: Mark Boston
+
+Enter Employee ID to Join:
+98765
+Successfully added Employee to the list
+
+_____________________________________________________________________
+
+		 Welcome to the Factory 
+1-Create a Workshop
+2-Add Workers to participate workshop
+3-Removing Workers from workshop
+4-Display all Workshops
+5-Export to File
+6-Exit
+Enter your choice of task: 
+2
+
+		 Available Workshop
+1: 459312452-testprod1
+1: 928888947-test2prod1
+
+Enter Workshop ID: 
+459312452
+
+		Available Employees
+98765: Ely Carev
+45678: James Boston
+45676: Leo Boston
+45675: Mark Boston
+
+Enter Employee ID to Join:
+98765
+Employee is already a participant
+
+________________________________________________________________________
+		 Welcome to the Factory 
+1-Create a Workshop
+2-Add Workers to participate workshop
+3-Removing Workers from workshop
+4-Display all Workshops
+5-Export to File
+6-Exit
+Enter your choice of task: 
+2
+
+		 Available Workshop
+1: 459312452-testprod1
+1: 928888947-test2prod1
+
+Enter Workshop ID: 
+928888947
+
+		Available Employees
+98765: Ely Carev
+45678: James Boston
+45676: Leo Boston
+45675: Mark Boston
+
+Enter Employee ID to Join:
+45678
+Successfully added Employee to the list
+
+__________________________________________________________________________
+		 Welcome to the Factory 
+1-Create a Workshop
+2-Add Workers to participate workshop
+3-Removing Workers from workshop
+4-Display all Workshops
+5-Export to File
+6-Exit
+Enter your choice of task: 
+2
+
+		 Available Workshop
+1: 459312452-testprod1
+1: 928888947-test2prod1
+
+Enter Workshop ID: 
+928888947
+
+		Available Employees
+98765: Ely Carev
+45678: James Boston
+45676: Leo Boston
+45675: Mark Boston
+
+Enter Employee ID to Join:
+45676
+Was not able to add an employee to the list. Please try again later.

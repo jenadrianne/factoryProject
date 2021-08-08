@@ -1,0 +1,40 @@
+		Welcome to the Factory 
+1-Create a Workshop
+2-Add Workers to participate workshop
+3-Removing Workers from workshop
+4-Display all Workshops
+5-Export to File
+6-Exit
+Enter your choice of task: 
+3
+
+		 Available Workshop
+1: 459312452-testprod1
+1: 928888947-test2prod1
+
+Enter Workshop ID: 
+928888947
+
+		Participants of test2prod1
+45678: James Boston
+
+Enter Employee ID to Delete:
+45678
+Successfully removed Employee to the list
+
+______________________________________________________________
+
+
+		 Welcome to the Factory 
+1-Create a Workshop
+2-Add Workers to participate workshop
+3-Removing Workers from workshop
+4-Display all Workshops
+5-Export to File
+6-Exit
+Enter your choice of task: 
+4
+
+		 Available Workshop
+1: 459312452-testprod1
+1: 928888947-test2prod1

@@ -1,0 +1,61 @@
+		Welcome to the Factory 
+1-Create a Workshop
+2-Add Workers to participate workshop
+3-Removing Workers from workshop
+4-Display all Workshops
+5-Export to File
+6-Exit
+Enter your choice of task: 
+1
+
+Enter workshop name:
+testprod1
+
+Enter workshop capacity:
+2
+
+Enter product line id:
+1
+
+		Available Employees
+12345: John Doe
+12346: Alex Doe
+12347: Brandon Doe
+12348: Charles Doe
+12346: Dext Doe
+
+Enter ID of the Engineer Practitioner
+12345
+Workshop has been added
+
+-------------------------------------------------------------
+		 Welcome to the Factory 
+1-Create a Workshop
+2-Add Workers to participate workshop
+3-Removing Workers from workshop
+4-Display all Workshops
+5-Export to File
+6-Exit
+Enter your choice of task: 
+1
+
+Enter workshop name:
+test2prod1
+
+Enter workshop capacity:
+1
+
+Enter product line id:
+1
+
+		Available Employees
+12345: John Doe
+12346: Alex Doe
+12347: Brandon Doe
+12348: Charles Doe
+12346: Dext Doe
+
+Enter ID of the Engineer Practitioner
+12345
+Workshop has been added
+	
